@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Camerontb/WeatherAI/issues"
   },
-  "homepage": "https://github.com/Camerontb/WeatherAI#readme"
+  "homepage": "https://github.com/Camerontb/WeatherAI#readme",
+  "devDependencies": {
+    "@types/mapbox-gl": "^3.4.1"
+  }
 }
