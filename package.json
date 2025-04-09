@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Camerontb/WeatherAI#readme",
   "devDependencies": {
     "@types/mapbox-gl": "^3.4.1"
+  },
+  "dependencies": {
+    "lucide-react": "^0.487.0"
   }
 }
